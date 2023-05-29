@@ -1,0 +1,214 @@
+@charset "utf-8";
+
+#principal{
+    width: 500px;
+    height: 2900px;
+    background-color: rgb(27, 94, 219);
+    margin: -8px;
+    margin-top: 25px;
+}
+
+#foto1{
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 120px;
+    transition: 1s;
+    
+}
+
+#foto1:hover{
+    transform: rotateY(400deg);
+}
+
+
+#fecha{
+    margin-left: -50px;
+    margin-top: -3px;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+
+
+#descripción{
+    margin-left: 50px;
+    font-size: 14px;
+    font-family: sans-serif;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+#contacto{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 50px;
+    color: aliceblue;
+    
+}
+
+h3{
+    color: rgb(255, 255, 255);
+    margin-left: 50px;
+    margin-right: 1300px;
+    padding: 5px;
+    font-family: Arial, sans-serif;
+    
+}
+
+body{
+    background: rgb(255, 255, 255);
+}
+
+
+
+
+
+hr{
+    width: 430px;
+    margin-right: 20px;
+}
+
+#derecha{
+    margin-left: 492px;
+    margin-top: -2850px;
+    margin-bottom: 1000px;
+    width: 1010px;
+    height: 550px;
+}
+
+#nombre{
+    color: rgb(8, 58, 145);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    margin-left: 55px;
+    text-shadow: 2px 5px 10px rgb(87, 87, 87);
+}
+
+#profesión{
+    margin-left: 55px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23px;
+
+}
+
+#estudios{
+    color: rgb(255, 255, 255);
+    margin-left: 55px;
+    font-family: Arial, sans-serif;
+}
+
+#listaparaestudios{
+    margin-left: 55px;
+
+}
+
+#experiencia{
+    color: rgb(255, 255, 255);
+    margin-left: 55px;
+    font-family: Arial, sans-serif;
+}
+
+#listaparaexperiencia{
+    margin-left: 55px;
+
+}
+
+p{
+    text-align: left;
+}
+
+#herramientas{
+    color: rgb(255, 255, 255);
+    margin-left:40px;
+    font-family: Arial, sans-serif;
+
+}
+
+#listaadicionales{
+    margin-left: -40px;
+
+}
+
+#idiomas{
+    color: rgb(255, 255, 255);
+    margin-left:40px;
+    font-family: Arial, sans-serif;
+}
+
+#cajas{
+    background-color: rgb(27, 94, 219);
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 10px;
+    color: aliceblue;
+    border-style:solid; 
+}
+
+#lineatrabajo{
+    border-style: dashed;
+    margin-left: 2px;
+}
+
+#redes{
+    margin-left: 15px;
+}
+
+#foto2{
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 115px;
+    transition: 1s;
+}
+
+
+
+#foto3{
+    width: 120px;
+    margin-top: 50px;
+    margin-left: 155px;
+    transition: 1s;
+}
+
+
+#registro{
+    width: 400px;
+    background-color: rgb(127, 223, 255);
+    padding: 50px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+#registro h2{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.Ingresos{
+    width:90%;
+    background-color: rgb(255, 216, 200);
+    margin: 5px;
+    border-radius: 15px;
+    border: 1px solid rgb(0, 54, 172);
+    padding:10px;
+}
+
+
+#registrar{
+    width: 100%;
+    background-color: rgb(232, 239, 255);
+    font-weight: bold;
+    padding: 10px;
+}
+#registrar:hover{
+    background-color: rgb(45, 122, 237);
+    cursor:pointer;
+}
+
+p{
+    text-align: center;
+    margin: 20px;
+}
+
+#registro a{
+    text-decoration: none;
+    font-weight: bold;
+}
